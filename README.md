@@ -84,7 +84,5 @@
   3. После считывания всех сигналов записанный двоичный код, согласно словарю, переводится в строовую переменную и отправляется на компьютер (также при помощи Serial monitor в Arduino IDE)
 
 ## Демонстрация работы
-<video controls width="250">
-<source src="./src/demonstration.mp4" type="video/mp4" />
-<a href="./src/demonstration.mp4">MP4</a>
-</video>
+<!-- Embedding a YouTube video -->
+<iframe width="560" height="315" src="./src/demonstration.mp4" title="Демонстрация" frameborder="0" allowfullscreen></iframe>
