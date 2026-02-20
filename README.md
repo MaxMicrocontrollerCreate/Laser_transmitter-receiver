@@ -85,5 +85,6 @@
 
 ## Демонстрация работы
 <video>
-<source alt="Фотография с изображением приёмника и передатчика" src="./src/demonstration.mp4" type="video/mp4" />
+<source src="./src/demonstration.mp4" type="video/mp4" />
+<a href="./src/demonstration.mp4">MP4</a>
 </video>
